@@ -1,0 +1,11 @@
+{
+  "version": "1.0.2",
+  "notes": "Guard against restart when update install fails.",
+  "pub_date": "2026-08-04T09:30:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbzV1VVEvZk9sYzd1djFjWVVPalZ0QnVwOHcvTHI4ZWltVFlUNGsvWHVabE4yem84T2d5aHprd0ZleFVoenJhMDcrcER1UzdubUFGSE95OXBEa29tRFZFZURJRXFHL0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1ODYyNjE3CWZpbGU6WGFobsOkdGUtT1NfMS4wLjJfeDY0LXNldHVwLmV4ZQpPWFJxRjRBSFRZZHdjRzA4bEVwN3gvWHRvT010aWU2NnluKzR2L296TzI3ZTlMSHc0enhySlIwZ3lMV3JUSWhRb0ZZUEZqZElJdFpQL3YyQ1o0OVhEdz09Cg==",
+      "url": "https://github.com/softwdev-vyqthor/xahnate-os-releases/releases/download/v1.0.2/Xahnate-OS_1.0.2_x64-setup.exe"
+    }
+  }
+}
