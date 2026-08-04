@@ -1,0 +1,11 @@
+{
+  "version": "1.0.1",
+  "notes": "Version-bump-only build to prove the update path. No functional change.",
+  "pub_date": "2026-08-03T22:44:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbzV1VVEvZk9sYzRaUTdNWS81YU94NWVNRG1rKy9EM1R5S1AxWnJZUlpLQ1pPdm5icDM3ZkdzMXNseEhjTlJUT2MrQmJQT0YyVnRRSGcrQTJMVXdNQUlSUm14M2l0ZVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1ODE4Njg1CWZpbGU6WGFobsOkdGUtT1NfMS4wLjFfeDY0LXNldHVwLmV4ZQpsUit3N0ZxM2wrMmhGYnhZS2dkcVY1a0d0cktBWTBYK3lZQzY4cWZOcm5ZR21lMW9KcVRCUlNpbGFkWk9ZSC9PQ0tJbVVaVHlpMGFTL2UvSjhZRE9DZz09Cg==",
+      "url": "https://github.com/softwdev-vyqthor/xahnate-os-releases/releases/download/v1.0.1/Xahnate-OS_1.0.1_x64-setup.exe"
+    }
+  }
+}
