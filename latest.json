@@ -1,11 +1,11 @@
 {
-  "version": "1.0.3",
-  "notes": "Muestra la versión de la aplicación en la barra superior.",
-  "pub_date": "2026-08-04T18:15:00Z",
+  "version": "1.0.6",
+  "notes": "Los precios ahora se muestran con IVA incluido en el mostrador y en los tickets. Buscador en Fijar precios.",
+  "pub_date": "2026-08-09T18:20:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbzV1VVEvZk9sYzR2TjNhY3RCWndMWS9HY1RoMlpsbGh6WTlCSURMWmI1Q0VGMlRKak50UXNDRWF2ZlJpK1MzVThrVTR6SFYxVmdiM1hOOEk0QTRTUWdERTNhUnhFakE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1ODk1MzIzCWZpbGU6WGFobsOkdGUtT1NfMS4wLjNfeDY0LXNldHVwLmV4ZQpYWnVBSXRUT2ttVkNaZCtCUFFkTy9Xc3kxTk1FWkhsZXNFZWxNajVqbFZoU2NCQ2xuMVlkL0hOWkZuazJxRm94VDhzSEVvR2lCN1lsTDdJNVkvNlZCQT09Cg==",
-      "url": "https://github.com/softwdev-vyqthor/xahnate-os-releases/releases/download/v1.0.3/Xahnate-OS_1.0.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbzV1VVEvZk9sYy85ZU56eHBSc1ZIUzZielY4ZXVQRHN5S2pMWUY4MFRIUDcvT1E0VXJmUmFReWpENEtXS3dEb0UxL3hKcThuVHFWRVZpMGRkZlFTdVl2ZnJMN09ESkFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2Mjk5MzU1CWZpbGU6WGFobsOkdGUtT1NfMS4wLjZfeDY0LXNldHVwLmV4ZQp6K1hiV2NkM0htY1JyVzduZ1lBYXRXQytWenVmbmJSNzdqM21pTkVGamVwNEdFb0lEUmZCdWQ4clNBSU5WRmdQQy9CMHhIaWQ2THJEWE9aZnp4cGVCdz09Cg==",
+      "url": "https://github.com/softwdev-vyqthor/xahnate-os-releases/releases/download/v1.0.6/Xahnate-OS_1.0.6_x64-setup.exe"
     }
   }
 }
