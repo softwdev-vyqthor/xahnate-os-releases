@@ -1,11 +1,11 @@
 {
-  "version": "1.0.6",
-  "notes": "Los precios ahora se muestran con IVA incluido en el mostrador y en los tickets. Buscador en Fijar precios.",
-  "pub_date": "2026-08-09T18:20:00Z",
+  "version": "1.0.7",
+  "notes": "Corrige el cobro con varios métodos de pago cuando queda un renglón vacío. Ajusta el redondeo de precios por cantidad. Los campos de costo ahora indican SIN IVA. La pantalla de PIN informa el motivo cuando falla.",
+  "pub_date": "2026-08-11T04:10:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbzV1VVEvZk9sYy85ZU56eHBSc1ZIUzZielY4ZXVQRHN5S2pMWUY4MFRIUDcvT1E0VXJmUmFReWpENEtXS3dEb0UxL3hKcThuVHFWRVZpMGRkZlFTdVl2ZnJMN09ESkFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2Mjk5MzU1CWZpbGU6WGFobsOkdGUtT1NfMS4wLjZfeDY0LXNldHVwLmV4ZQp6K1hiV2NkM0htY1JyVzduZ1lBYXRXQytWenVmbmJSNzdqM21pTkVGamVwNEdFb0lEUmZCdWQ4clNBSU5WRmdQQy9CMHhIaWQ2THJEWE9aZnp4cGVCdz09Cg==",
-      "url": "https://github.com/softwdev-vyqthor/xahnate-os-releases/releases/download/v1.0.6/Xahnate-OS_1.0.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbzV1VVEvZk9sYzRUWFE3ejlsdURXa1FFbjZFMlpENzNLTDIzb0E1ZFdTMk1rZkxvYmNRWWtTcW1MK0pkQlUrN25mUWVRczVNdDRsSkNlbVVtL1p3a2REc2xEa2RUU3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDIwNzA4CWZpbGU6WGFobsOkdGUtT1NfMS4wLjdfeDY0LXNldHVwLmV4ZQpYL1ZtNzFKcWpNR0F0dGliZ042WDBXbmx3T3R4ZkhFNkpvY1lvN2FHZDBiaVcvSFkxQVRxTFhJU2loRGZsc0ZhcDZKRTl0Y0VaSEJYZXZ3UGZ5UEtCZz09Cg==",
+      "url": "https://github.com/softwdev-vyqthor/xahnate-os-releases/releases/download/v1.0.7/Xahnate-OS_1.0.7_x64-setup.exe"
     }
   }
 }
