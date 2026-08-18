@@ -1,11 +1,11 @@
 {
-  "version": "1.0.9",
-  "notes": "Reporte SAT por RFC: ventas agrupadas por dueño del lote, con rango de fechas y filtro por sucursal.",
-  "pub_date": "2026-08-16T01:15:00Z",
+  "version": "1.0.10",
+  "notes": "Ya funciona la autorización de administrador: se elige quién autoriza y esa persona teclea su PIN. También se corrigió Editar precio.",
+  "pub_date": "2026-08-18T15:56:37Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbzV1VVEvZk9sYzdyaHpXY2RBbTlacWN5OEtSM1ZrNDRRWjB5YjhacllhZHNsaXZWamZUcHhlREg2eHJSdXJrZG1hSzNUWlVjaWpsb3JrZzdFSnM2Z3hZcTBZQWVRcGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2ODQyNTc0CWZpbGU6WGFobsOkdGUtT1NfMS4wLjlfeDY0LXNldHVwLmV4ZQoxLzl0Q3ZiQ2s1Zm45NktyNjNVZ253MUhPT3VoQUhoY0s2aERHTGlUVGpMQ1hjVkJuVXl5YWRWQUlsOVREVko0RHVvR1laakVQZTRWTmptYUxFaURCUT09Cg==",
-      "url": "https://github.com/softwdev-vyqthor/xahnate-os-releases/releases/download/v1.0.9/Xahnate-OS_1.0.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbzV1VVEvZk9sYzlVRC8ybnBZT3IybEk1TnlodFE4dWovc2poSHZhNFVaTzhjWENHM0d4aEdaNVdhb1BkNVlWMys1SE4rZU5Jdkx4TTQ0d3hTaUlnMXUyYU01SWcxVHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDY4NDg5CWZpbGU6WGFobsOkdGUtT1NfMS4wLjEwX3g2NC1zZXR1cC5leGUKSFVsOUpqRkpobFNvMTVzZ0YvRit2N2gxQktJc09xejR6QXY4cGlydDRDVHVrQTNQTkE5ZU9TNTVGekpVU1F0eFRpK2FuZmNMa0pmbmd4SHpnYTBZQUE9PQo=",
+      "url": "https://github.com/softwdev-vyqthor/xahnate-os-releases/releases/download/v1.0.10/Xahnate-OS_1.0.10_x64-setup.exe"
     }
   }
 }
