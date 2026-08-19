@@ -1,11 +1,11 @@
 {
-  "version": "1.0.11",
-  "notes": "El precio piso ya no bloquea la venta por culpa de otro renglón, y el mensaje ahora dice cuál producto es.",
-  "pub_date": "2026-08-19T02:50:30Z",
+  "version": "1.0.12",
+  "notes": "Fijar precios ya muestra los precios reales del producto. Antes mostraba precios sugeridos y al guardar borraba los que ustedes habían puesto a mano.",
+  "pub_date": "2026-08-19T05:22:08Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbzV1VVEvZk9sYzM1R0JqbEYwaGtvTUNXR0djL2pUTkR5a0h1TERMNmtVRnlVRi84a3ZUNDA3Y2xxL3UrdzJWWXZTR2JMbS90aG5KUzVLZjNvTmZzRytpSGhFclgyTHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTA3NTExCWZpbGU6WGFobsOkdGUtT1NfMS4wLjExX3g2NC1zZXR1cC5leGUKTzYwVDZOYVA4d0xqdlp5eGZLNGtJalUxdnEvTVVPSE52OThBNEJFMmlmSzNHK3llSEFqY3p3QktxbjJLTDZRS1J4OFI2MlR2TTRmZEMyYWRLMUpoQmc9PQo=",
-      "url": "https://github.com/softwdev-vyqthor/xahnate-os-releases/releases/download/v1.0.11/Xahnate-OS_1.0.11_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbzV1VVEvZk9sY3lzaGxYTkx4UGRmNjl2eVRLT0hWbkh5RlY1V0RYNXBMaGJPeHdEZ3MzQmcvVFBUVDZtSmFDRVJzSUp5dElqQWJ3MS9QSmhWMmZzWllTNXk4ckZLUEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTE2OTIyCWZpbGU6WGFobsOkdGUtT1NfMS4wLjEyX3g2NC1zZXR1cC5leGUKT0V2VmNjenR4RHlGdzdhTzBxam4zMVdnRDZhQ0p2UDNTQ2dwaHUzdHN3K3BGdDlGbmwyZnVCeGJ4SUpmZnZ1L0lHRFlMWDR6N2RXT2sycmJTZjZTRHc9PQo=",
+      "url": "https://github.com/softwdev-vyqthor/xahnate-os-releases/releases/download/v1.0.12/Xahnate-OS_1.0.12_x64-setup.exe"
     }
   }
 }
