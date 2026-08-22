@@ -1,11 +1,11 @@
 {
-  "version": "1.0.12",
-  "notes": "Fijar precios ya muestra los precios reales del producto. Antes mostraba precios sugeridos y al guardar borraba los que ustedes habían puesto a mano.",
-  "pub_date": "2026-08-19T05:22:08Z",
+  "version": "1.0.13",
+  "notes": "Ahora se ve de quién es la mercancía. Cada producto muestra si es de Saúl, de Elo, de ambos, o si tiene existencias sin RFC asignado.",
+  "pub_date": "2026-08-22T17:13:16Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbzV1VVEvZk9sY3lzaGxYTkx4UGRmNjl2eVRLT0hWbkh5RlY1V0RYNXBMaGJPeHdEZ3MzQmcvVFBUVDZtSmFDRVJzSUp5dElqQWJ3MS9QSmhWMmZzWllTNXk4ckZLUEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTE2OTIyCWZpbGU6WGFobsOkdGUtT1NfMS4wLjEyX3g2NC1zZXR1cC5leGUKT0V2VmNjenR4RHlGdzdhTzBxam4zMVdnRDZhQ0p2UDNTQ2dwaHUzdHN3K3BGdDlGbmwyZnVCeGJ4SUpmZnZ1L0lHRFlMWDR6N2RXT2sycmJTZjZTRHc9PQo=",
-      "url": "https://github.com/softwdev-vyqthor/xahnate-os-releases/releases/download/v1.0.12/Xahnate-OS_1.0.12_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbzV1VVEvZk9sYy92L1pLYjFid3k5YVl2SEJ5WmFtUFRUZkE3M1AwZlViVjJFRmxNRGtxNVRLYnI0eXpEUHBqVTdRVDlKaERMaVFieGNrcnpsYi9tTG1wbjRYVWI1Wnd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NDE4NjA0CWZpbGU6WGFobsOkdGUtT1NfMS4wLjEzX3g2NC1zZXR1cC5leGUKSHNvNnBEcHdxdDZTUWpyNW5iMWVLT0doMkE0dVNyMFRQWEV0WEV4VDNOVjcxS3J0UEFMT2hNeXdoVVhlNXNmZnJVRWF6MTBkcDUwRVY4SW4ySkhhQkE9PQo=",
+      "url": "https://github.com/softwdev-vyqthor/xahnate-os-releases/releases/download/v1.0.13/Xahnate-OS_1.0.13_x64-setup.exe"
     }
   }
 }
