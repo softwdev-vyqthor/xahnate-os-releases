@@ -1,11 +1,11 @@
 {
-  "version": "1.0.14",
-  "notes": "Al hacer un ajuste de inventario, si hay mercancía de Saúl y de Elo en esa sucursal, el sistema ahora pregunta a quién se le acredita en vez de adivinar.",
-  "pub_date": "2026-08-23T21:41:49Z",
+  "version": "1.0.15",
+  "notes": "El cierre de caja ahora cuenta el cajón: pide el fondo inicial, incluye los abonos en el día en que se cobran, y muestra aparte lo que se dio a crédito. Tarjeta y transferencias se verifican contra la terminal, ya no cuentan como conteo físico. En Cobros Ruta ya se ve el folio y el cliente de cada pagaré. Una venta a crédito ahora exige cliente.",
+  "pub_date": "2026-08-26T03:12:50Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbzV1VVEvZk9sYzBSWHE4d3BZUjIvUkt3QjljdWIrRmVYQWNvQ0V6TXRqTCtXbUs3RVdpTkhRQkw1VHBKbVBsbUtlT3hmbEdQNFFOV0NPMWluNkljSGo4UnVLOU9SVkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NTIxMjg0CWZpbGU6WGFobsOkdGUtT1NfMS4wLjE0X3g2NC1zZXR1cC5leGUKWVdJY0VFQW15ZzJVVW9YVXZvY1c5cDZSbDRtN2ZUaC9BV0IwSVdISkxyOUNOSFZ2VEpKSFRvNWt1U3NoSG9jWlFyZHNkMXc1NHNKbVZKZC95ZHlIQXc9PQo=",
-      "url": "https://github.com/softwdev-vyqthor/xahnate-os-releases/releases/download/v1.0.14/Xahnate-OS_1.0.14_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbzV1VVEvZk9sYzNwZUVxZThjeE9EOWdUUzBSNzg5VHQxeWZ1UE0xNFhOQkh2R1VlR21TTXBXaUdRQldLRlY4d1dqZmdCTC9aS0QrRVVFK0V1VldDcElFc0tvMVNOYWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NzEzNDg3CWZpbGU6WGFobsOkdGUtT1NfMS4wLjE1X3g2NC1zZXR1cC5leGUKOThIRjUvNmRGTkcrZllDWG56L2NGSS9FS3NzRjdpM0x3dmZVWi9MM2hBWVg0a3dBSyt2MDlPeVFYUXlZWVNoL3NoNnp2Y01QYks3WmwxS1VHWW53QVE9PQo=",
+      "url": "https://github.com/softwdev-vyqthor/xahnate-os-releases/releases/download/v1.0.15/Xahnate-OS_1.0.15_x64-setup.exe"
     }
   }
 }
