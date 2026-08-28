@@ -1,11 +1,11 @@
 {
-  "version": "1.0.15",
-  "notes": "El cierre de caja ahora cuenta el cajón: pide el fondo inicial, incluye los abonos en el día en que se cobran, y muestra aparte lo que se dio a crédito. Tarjeta y transferencias se verifican contra la terminal, ya no cuentan como conteo físico. En Cobros Ruta ya se ve el folio y el cliente de cada pagaré. Una venta a crédito ahora exige cliente.",
-  "pub_date": "2026-08-26T03:12:50Z",
+  "version": "1.0.16",
+  "notes": "Los pagarés de ruta ahora salen en dos copias completas: una para el cliente y una para archivo, cada una en su propia hoja. Las claves de producto ya no se cortan, las notas largas se paginan bien y el logo aparece en el encabezado.",
+  "pub_date": "2026-08-28T04:45:39Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbzV1VVEvZk9sYzNwZUVxZThjeE9EOWdUUzBSNzg5VHQxeWZ1UE0xNFhOQkh2R1VlR21TTXBXaUdRQldLRlY4d1dqZmdCTC9aS0QrRVVFK0V1VldDcElFc0tvMVNOYWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NzEzNDg3CWZpbGU6WGFobsOkdGUtT1NfMS4wLjE1X3g2NC1zZXR1cC5leGUKOThIRjUvNmRGTkcrZllDWG56L2NGSS9FS3NzRjdpM0x3dmZVWi9MM2hBWVg0a3dBSyt2MDlPeVFYUXlZWVNoL3NoNnp2Y01QYks3WmwxS1VHWW53QVE9PQo=",
-      "url": "https://github.com/softwdev-vyqthor/xahnate-os-releases/releases/download/v1.0.15/Xahnate-OS_1.0.15_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbzV1VVEvZk9sYzNNRHhwNUxkd3AyenpOcE85bjVhekJ5Sys3Y3hqRmVHRU5JSU9lcllkNUZhK29hYzlSTUVrNll5MmZDQi9Qa2J3TW9pL001dC81Tm5IbHppeWlSQndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODkyMjA3CWZpbGU6WGFobsOkdGUtT1NfMS4wLjE2X3g2NC1zZXR1cC5leGUKWGFEU3lPTVFRY0o5N2wwU3JSVU9BOUtXZEMyM0ZjK21hVVZRT2hWclBKM0dVUmJPZnlpNFlTMk1LNHdra2FOOTB0WmFCaXpwY1ZSQkxBL3FnNWFIREE9PQo=",
+      "url": "https://github.com/softwdev-vyqthor/xahnate-os-releases/releases/download/v1.0.16/Xahnate-OS_1.0.16_x64-setup.exe"
     }
   }
 }
