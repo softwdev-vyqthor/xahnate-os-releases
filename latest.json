@@ -1,11 +1,11 @@
 {
-  "version": "1.0.16",
-  "notes": "Los pagarés de ruta ahora salen en dos copias completas: una para el cliente y una para archivo, cada una en su propia hoja. Las claves de producto ya no se cortan, las notas largas se paginan bien y el logo aparece en el encabezado.",
-  "pub_date": "2026-08-28T04:45:39Z",
+  "version": "1.0.17",
+  "notes": "Los créditos de mostrador y los de ruta ya están juntos en una sola pantalla: Cobranza. Se agrupan por cliente, así que si alguien debe varios pagarés ves el total de una vez. Trae buscador, filtros por tienda y por tipo, el historial de abonos de cada deuda, y la opción de declarar una deuda como incobrable.",
+  "pub_date": "2026-08-30T05:14:01Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbzV1VVEvZk9sYzNNRHhwNUxkd3AyenpOcE85bjVhekJ5Sys3Y3hqRmVHRU5JSU9lcllkNUZhK29hYzlSTUVrNll5MmZDQi9Qa2J3TW9pL001dC81Tm5IbHppeWlSQndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODkyMjA3CWZpbGU6WGFobsOkdGUtT1NfMS4wLjE2X3g2NC1zZXR1cC5leGUKWGFEU3lPTVFRY0o5N2wwU3JSVU9BOUtXZEMyM0ZjK21hVVZRT2hWclBKM0dVUmJPZnlpNFlTMk1LNHdra2FOOTB0WmFCaXpwY1ZSQkxBL3FnNWFIREE9PQo=",
-      "url": "https://github.com/softwdev-vyqthor/xahnate-os-releases/releases/download/v1.0.16/Xahnate-OS_1.0.16_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbzV1VVEvZk9sYzBlS0JXakxGT0p0djlGSnZDUVZLenBNdVBGMzRhcEhuc1dvVmFwckVwa0x2VitCaWxHa05GTjRQY0d6ZnZpaFlwWjN0b3o2NWhIcFl1UHpSenl1UXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDYxNTQ1CWZpbGU6WGFobsOkdGUtT1NfMS4wLjE3X3g2NC1zZXR1cC5leGUKbFNjS0RRbGRNcHpPWDRQMzd3MnNwb2w1MGsxMTVOVkZaV2pha0dCL3ROeURweGNMUWRMamMvV3RxcmtZMG1RYjk0N00rNzlEdVNEOUF0SDlwYVhPQ3c9PQo=",
+      "url": "https://github.com/softwdev-vyqthor/xahnate-os-releases/releases/download/v1.0.17/Xahnate-OS_1.0.17_x64-setup.exe"
     }
   }
 }
