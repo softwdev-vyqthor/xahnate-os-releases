@@ -1,11 +1,11 @@
 {
-  "version": "1.0.17",
-  "notes": "Los créditos de mostrador y los de ruta ya están juntos en una sola pantalla: Cobranza. Se agrupan por cliente, así que si alguien debe varios pagarés ves el total de una vez. Trae buscador, filtros por tienda y por tipo, el historial de abonos de cada deuda, y la opción de declarar una deuda como incobrable.",
-  "pub_date": "2026-08-30T05:14:01Z",
+  "version": "1.1.0",
+  "notes": "Nueva pantalla de producto. Entras desde la búsqueda y ves todo de un solo producto: cuánto hay en cada tienda y en qué lote, de quién es, cuánto costó cada vez que entró y de dónde salió ese costo, y los cuatro precios con quién los puso. Desde ahí puedes corregir un costo mal capturado, cambiar la descripción, la familia, el preset o la unidad, y elegir qué costo manda para calcular precios viendo antes qué precio daría cada opción. También está la pantalla de Precios por revisar.",
+  "pub_date": "2026-09-01T00:57:03Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbzV1VVEvZk9sYzBlS0JXakxGT0p0djlGSnZDUVZLenBNdVBGMzRhcEhuc1dvVmFwckVwa0x2VitCaWxHa05GTjRQY0d6ZnZpaFlwWjN0b3o2NWhIcFl1UHpSenl1UXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDYxNTQ1CWZpbGU6WGFobsOkdGUtT1NfMS4wLjE3X3g2NC1zZXR1cC5leGUKbFNjS0RRbGRNcHpPWDRQMzd3MnNwb2w1MGsxMTVOVkZaV2pha0dCL3ROeURweGNMUWRMamMvV3RxcmtZMG1RYjk0N00rNzlEdVNEOUF0SDlwYVhPQ3c9PQo=",
-      "url": "https://github.com/softwdev-vyqthor/xahnate-os-releases/releases/download/v1.0.17/Xahnate-OS_1.0.17_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbzV1VVEvZk9sYzN0ZXVwRVBoU3hPYXl3SHZ4cmlOS2ZoV3hUK2dJRDc0Rm5zeE9mQU1wb2FsODZUbXNxMkNudlBBQ3JkQnlFU05Ld1JVNHdlT2MzVEFqc2RKN212YlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MjI0MDIyCWZpbGU6WGFobsOkdGUtT1NfMS4xLjBfeDY0LXNldHVwLmV4ZQpDQURMcXZwcHdwVXJpL3VpNjJFNUR1anFoSkRtMEVSYk1aMW1ZVTVUVFU1a1RvRTNxVWJFaGJPdnhldGFnQXlYVVp1Ri9TbUJHSkJpRmFKaVVZbXhEQT09Cg==",
+      "url": "https://github.com/softwdev-vyqthor/xahnate-os-releases/releases/download/v1.1.0/Xahnate-OS_1.1.0_x64-setup.exe"
     }
   }
 }
