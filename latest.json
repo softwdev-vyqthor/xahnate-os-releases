@@ -1,11 +1,11 @@
 {
-  "version": "1.1.0",
-  "notes": "Nueva pantalla de producto. Entras desde la búsqueda y ves todo de un solo producto: cuánto hay en cada tienda y en qué lote, de quién es, cuánto costó cada vez que entró y de dónde salió ese costo, y los cuatro precios con quién los puso. Desde ahí puedes corregir un costo mal capturado, cambiar la descripción, la familia, el preset o la unidad, y elegir qué costo manda para calcular precios viendo antes qué precio daría cada opción. También está la pantalla de Precios por revisar.",
-  "pub_date": "2026-09-01T00:57:03Z",
+  "version": "1.1.1",
+  "notes": "Ya puedes entrar al catálogo directo desde el menú, en Productos, sin tener que pasar por una venta. Y al buscar, la pantalla ahora te dice cuál producto vas a abrir antes de que le des clic.",
+  "pub_date": "2026-09-01T03:47:41Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbzV1VVEvZk9sYzN0ZXVwRVBoU3hPYXl3SHZ4cmlOS2ZoV3hUK2dJRDc0Rm5zeE9mQU1wb2FsODZUbXNxMkNudlBBQ3JkQnlFU05Ld1JVNHdlT2MzVEFqc2RKN212YlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MjI0MDIyCWZpbGU6WGFobsOkdGUtT1NfMS4xLjBfeDY0LXNldHVwLmV4ZQpDQURMcXZwcHdwVXJpL3VpNjJFNUR1anFoSkRtMEVSYk1aMW1ZVTVUVFU1a1RvRTNxVWJFaGJPdnhldGFnQXlYVVp1Ri9TbUJHSkJpRmFKaVVZbXhEQT09Cg==",
-      "url": "https://github.com/softwdev-vyqthor/xahnate-os-releases/releases/download/v1.1.0/Xahnate-OS_1.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbzV1VVEvZk9sYzU3WUNQTnJrZUNTZlE3b2pqbkpRdzBNdWhpTzIvUDgyQzVIZDU2cVN6UFlaZDhyYnhJWTJndlVFdi9YUm5nM0plOVltajdxWVpuUzZBYkpQSGpyZVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MjM0MzAxCWZpbGU6WGFobsOkdGUtT1NfMS4xLjFfeDY0LXNldHVwLmV4ZQppdUNJc2E0R2lUemdodklCS1Y2T3REV3FpTE9TekErK3Zzb29QYkIxYmZBT2VhcHpHWm5sU2k4NDl4ZjM0cmFScytPRm4yeDd6OXRmb3NBL3R2SzlBUT09Cg==",
+      "url": "https://github.com/softwdev-vyqthor/xahnate-os-releases/releases/download/v1.1.1/Xahnate-OS_1.1.1_x64-setup.exe"
     }
   }
 }
