@@ -1,11 +1,11 @@
 {
-  "version": "1.1.1",
-  "notes": "Ya puedes entrar al catálogo directo desde el menú, en Productos, sin tener que pasar por una venta. Y al buscar, la pantalla ahora te dice cuál producto vas a abrir antes de que le des clic.",
-  "pub_date": "2026-09-01T03:47:41Z",
+  "version": "1.1.2",
+  "notes": "Si alguien está haciendo inventario mientras tú cobras, los precios se mueven. Ahora, si el precio de un producto cambia entre que lo escaneas y le das Cobrar, el sistema te dice cuál producto y de cuánto a cuánto cambió, y puedes seguir con el precio nuevo. Los errores al cobrar ya nombran el producto en lugar de dejarte revisar todo el ticket. Y si escaneas un código que existe en más de un producto, ahora pregunta cuál es en lugar de meter uno al azar.",
+  "pub_date": "2026-09-04T23:16:57Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbzV1VVEvZk9sYzU3WUNQTnJrZUNTZlE3b2pqbkpRdzBNdWhpTzIvUDgyQzVIZDU2cVN6UFlaZDhyYnhJWTJndlVFdi9YUm5nM0plOVltajdxWVpuUzZBYkpQSGpyZVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MjM0MzAxCWZpbGU6WGFobsOkdGUtT1NfMS4xLjFfeDY0LXNldHVwLmV4ZQppdUNJc2E0R2lUemdodklCS1Y2T3REV3FpTE9TekErK3Zzb29QYkIxYmZBT2VhcHpHWm5sU2k4NDl4ZjM0cmFScytPRm4yeDd6OXRmb3NBL3R2SzlBUT09Cg==",
-      "url": "https://github.com/softwdev-vyqthor/xahnate-os-releases/releases/download/v1.1.1/Xahnate-OS_1.1.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbzV1VVEvZk9sY3g0Q1MzM2tRcWI0Zk1TVU52VHZES2tuMFNGRmFjSmxCQXVTRnM4MG9odS92RHRIUWpyN01pT0M3bEtWekdNWUZzckNoeUl6ZmpRMUd4czFSSFM0WFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTYzNTY2CWZpbGU6WGFobsOkdGUtT1NfMS4xLjJfeDY0LXNldHVwLmV4ZQp2NzVycnNKNm80T2JMRnBtZEcvcXhZTTBrdTNpM2hBSDI3UmtTMXlpb3NodXJub1BIbkpqbk5NUmUxWjdDY0p1OHdJYlhZS3JycVRiM2JhWW1KMGFDdz09Cg==",
+      "url": "https://github.com/softwdev-vyqthor/xahnate-os-releases/releases/download/v1.1.2/Xahnate-OS_1.1.2_x64-setup.exe"
     }
   }
 }
