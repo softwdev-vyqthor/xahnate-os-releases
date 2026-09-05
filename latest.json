@@ -1,11 +1,11 @@
 {
-  "version": "1.1.3",
-  "notes": "Un producto dado de baja ya no se puede vender por error: si alguno se cuela al carrito, el sistema te dice cuál es y te pide quitarlo. Tampoco aparece cuando reciben mercancía. Y en la búsqueda cambió el orden: primero salen los productos que tienen existencia o que ya se contaron en un inventario, y los que nunca se han contado quedan marcados, para que se vea de un vistazo cuáles son los viejos de los sistemas anteriores.",
-  "pub_date": "2026-09-05T05:14:34Z",
+  "version": "1.1.4",
+  "notes": "Al recibir mercancía, el sistema ahora comprueba que las cantidades y los costos de cada línea cuadren con la factura antes de guardar nada. Si algo no cuadra, te dice cuál producto es y no guarda la recepción. Y si recibes menos piezas de las que ampara la factura, ya no se puede cambiar la cantidad ahí: captura lo facturado y registra la diferencia en Ajuste de inventario, para que quede el motivo anotado.",
+  "pub_date": "2026-09-05T21:35:51Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbzV1VVEvZk9sYzF2a01vRUlUVWd0WlZVZHdmdzM3d2NFYkRaQVI3Z2taMGROZE02RnZjZStKQXo2SUVJMjRJdTJxSm1QZHB6a3pOVFNNSjluQUwycHhad3pOZlJnUWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTg1MTYyCWZpbGU6WGFobsOkdGUtT1NfMS4xLjNfeDY0LXNldHVwLmV4ZQpuajR5THJkaU01SUEzMzl0eCtaaDY5K3pZWHRreFRrZzJZdHJWdHZXUSs5Wkg4ZlhyanlGNVp0cXFUSjNtQ0xNSzRldVhlZlRrTjF3dldSbkh4ZVpCUT09Cg==",
-      "url": "https://github.com/softwdev-vyqthor/xahnate-os-releases/releases/download/v1.1.3/Xahnate-OS_1.1.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbzV1VVEvZk9sY3p5a291aW9jWXVZWlk4alFMekZCeU90NktjYjVINWdsOGdmRlF3L0FiWkhLallXYkY0a2xjaW5wbWMxYTUxNEp6OUZ2K1lZeGVKNHFPV1BGTmc4R2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NjQzMjYyCWZpbGU6WGFobsOkdGUtT1NfMS4xLjRfeDY0LXNldHVwLmV4ZQpCalRuR3h2T3ZWYlRKRVNHVlgxVDNQbG5tMEFNSmthSkpVUmNvdUFDbEZUY1BoaiszMGpRNHhiQ294RW5mV2ZNWTlubUxxTk94eW9VODlQNUkxRVhDZz09Cg==",
+      "url": "https://github.com/softwdev-vyqthor/xahnate-os-releases/releases/download/v1.1.4/Xahnate-OS_1.1.4_x64-setup.exe"
     }
   }
 }
