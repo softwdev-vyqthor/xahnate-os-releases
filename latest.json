@@ -1,11 +1,11 @@
 {
-  "version": "1.1.4",
-  "notes": "Al recibir mercancía, el sistema ahora comprueba que las cantidades y los costos de cada línea cuadren con la factura antes de guardar nada. Si algo no cuadra, te dice cuál producto es y no guarda la recepción. Y si recibes menos piezas de las que ampara la factura, ya no se puede cambiar la cantidad ahí: captura lo facturado y registra la diferencia en Ajuste de inventario, para que quede el motivo anotado.",
-  "pub_date": "2026-09-05T21:35:51Z",
+  "version": "1.1.5",
+  "notes": "Cuando una factura trae descuento en alguna línea, el costo que guarda el sistema no lo incluye todavía: guarda el precio de lista. Ahora te avisa cuándo pasa eso, para que no se te vaya un precio calculado sobre un costo más alto del que realmente pagaste. Lo ves en la pantalla del producto, junto al costo, y marcado en Precios por revisar.",
+  "pub_date": "2026-09-06T17:12:47Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbzV1VVEvZk9sY3p5a291aW9jWXVZWlk4alFMekZCeU90NktjYjVINWdsOGdmRlF3L0FiWkhLallXYkY0a2xjaW5wbWMxYTUxNEp6OUZ2K1lZeGVKNHFPV1BGTmc4R2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NjQzMjYyCWZpbGU6WGFobsOkdGUtT1NfMS4xLjRfeDY0LXNldHVwLmV4ZQpCalRuR3h2T3ZWYlRKRVNHVlgxVDNQbG5tMEFNSmthSkpVUmNvdUFDbEZUY1BoaiszMGpRNHhiQ294RW5mV2ZNWTlubUxxTk94eW9VODlQNUkxRVhDZz09Cg==",
-      "url": "https://github.com/softwdev-vyqthor/xahnate-os-releases/releases/download/v1.1.4/Xahnate-OS_1.1.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbzV1VVEvZk9sYyt0SVlTcmZid2I3NGZWU1VoZDlsOWdYSHZWd0gyazNuUEdORWR0M0xpb25IdEZUdmxmWTVIbVp3dVV0eUZ2bFpGM1JPY00yZDRNbFBrNWlhNDJyYXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NzEzOTk3CWZpbGU6WGFobsOkdGUtT1NfMS4xLjVfeDY0LXNldHVwLmV4ZQpKenM2MHdNNTlpUE52cXgwYkh5Nk5tU1ZBRERVUHp0Z09pSitXNmtyUklUdHVuUDlNL0RSNCsrOVhrTGZ2TjAybzRLSFlzc2dteDBOdGNpbnVvTnVBQT09Cg==",
+      "url": "https://github.com/softwdev-vyqthor/xahnate-os-releases/releases/download/v1.1.5/Xahnate-OS_1.1.5_x64-setup.exe"
     }
   }
 }
