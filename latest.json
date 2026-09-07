@@ -1,11 +1,11 @@
 {
-  "version": "1.1.5",
-  "notes": "Cuando una factura trae descuento en alguna línea, el costo que guarda el sistema no lo incluye todavía: guarda el precio de lista. Ahora te avisa cuándo pasa eso, para que no se te vaya un precio calculado sobre un costo más alto del que realmente pagaste. Lo ves en la pantalla del producto, junto al costo, y marcado en Precios por revisar.",
-  "pub_date": "2026-09-06T17:12:47Z",
+  "version": "1.1.6",
+  "notes": "Cuando una línea de la factura viene facturada por caja y no por pieza, ahora sale un aviso en la pantalla de recepción diciendo que ese costo es el del contenedor completo. Sirve para no guardar el precio de una caja como si fuera el de una pieza. No bloquea nada: reciben la cantidad que dice la factura como siempre. Además, la comprobación de que la factura cuadra ahora usa el costo tal como queda guardado.",
+  "pub_date": "2026-09-07T04:45:12Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbzV1VVEvZk9sYyt0SVlTcmZid2I3NGZWU1VoZDlsOWdYSHZWd0gyazNuUEdORWR0M0xpb25IdEZUdmxmWTVIbVp3dVV0eUZ2bFpGM1JPY00yZDRNbFBrNWlhNDJyYXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NzEzOTk3CWZpbGU6WGFobsOkdGUtT1NfMS4xLjVfeDY0LXNldHVwLmV4ZQpKenM2MHdNNTlpUE52cXgwYkh5Nk5tU1ZBRERVUHp0Z09pSitXNmtyUklUdHVuUDlNL0RSNCsrOVhrTGZ2TjAybzRLSFlzc2dteDBOdGNpbnVvTnVBQT09Cg==",
-      "url": "https://github.com/softwdev-vyqthor/xahnate-os-releases/releases/download/v1.1.5/Xahnate-OS_1.1.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbzV1VVEvZk9sY3ltbGlpVG9Vcjdpc2tOL2w1QWZzQmkzK3pqcVhnSFN1WEFmTWtKUUNyTTEvd2lZZkVUL2lacDZMd3dOWk1RNFR4Mk9TZXA2T2xnUjhQYzRBOXJocVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NzU2MTg3CWZpbGU6WGFobsOkdGUtT1NfMS4xLjZfeDY0LXNldHVwLmV4ZQpCcWFGWE92S29tYlBIT05URGZRSHhqdzVuM1NiRUpOamJuYWxaSkpZd0hLaWw3aFNvYlBWQm9tZmdBUkNFRXhaTlhzdFZTWkJ1MGtJZVg5MFdOczlEZz09Cg==",
+      "url": "https://github.com/softwdev-vyqthor/xahnate-os-releases/releases/download/v1.1.6/Xahnate-OS_1.1.6_x64-setup.exe"
     }
   }
 }
