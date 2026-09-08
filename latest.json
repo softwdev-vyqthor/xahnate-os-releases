@@ -1,11 +1,11 @@
 {
-  "version": "1.1.6",
-  "notes": "Cuando una línea de la factura viene facturada por caja y no por pieza, ahora sale un aviso en la pantalla de recepción diciendo que ese costo es el del contenedor completo. Sirve para no guardar el precio de una caja como si fuera el de una pieza. No bloquea nada: reciben la cantidad que dice la factura como siempre. Además, la comprobación de que la factura cuadra ahora usa el costo tal como queda guardado.",
-  "pub_date": "2026-09-07T04:45:12Z",
+  "version": "1.1.7",
+  "notes": "Si capturaron mal un costo, ya se puede corregir: en la pantalla del producto, en el historial de costos, hay un botón para corregir la cifra. Queda registrado lo que se capturó y lo que era correcto. También se puede fijar un costo a mano cuando ninguno del historial sirve. Y lo importante: cuando el costo cambia, el sistema les muestra los precios nuevos que saldrían y los aplican con un clic — ya no se queda el precio viejo colgado. La ventana del costo más alto ahora es de 12 meses.",
+  "pub_date": "2026-09-08T05:52:08Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbzV1VVEvZk9sY3ltbGlpVG9Vcjdpc2tOL2w1QWZzQmkzK3pqcVhnSFN1WEFmTWtKUUNyTTEvd2lZZkVUL2lacDZMd3dOWk1RNFR4Mk9TZXA2T2xnUjhQYzRBOXJocVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NzU2MTg3CWZpbGU6WGFobsOkdGUtT1NfMS4xLjZfeDY0LXNldHVwLmV4ZQpCcWFGWE92S29tYlBIT05URGZRSHhqdzVuM1NiRUpOamJuYWxaSkpZd0hLaWw3aFNvYlBWQm9tZmdBUkNFRXhaTlhzdFZTWkJ1MGtJZVg5MFdOczlEZz09Cg==",
-      "url": "https://github.com/softwdev-vyqthor/xahnate-os-releases/releases/download/v1.1.6/Xahnate-OS_1.1.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbzV1VVEvZk9sY3hJTXRtNTM0aWJUZ2lodmRFWGtqSm1WUDBsQXI0a2NkSVZ3b09xN1dEVm1JYkhDL0s0YUtKbGZTME5PeHFrOWpBT2dxdjNkWnhzUUU2M0M4RDcxcUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODQ2NjYyCWZpbGU6WGFobsOkdGUtT1NfMS4xLjdfeDY0LXNldHVwLmV4ZQpUYncvQ0N1TkdVTHlhOWJSY3NvZVp0ekFCUFR2cXdWNko3dzdPeTVJNkR5MWsvaWFrR3I5dzB4WWVVeFJiS0Nxa3FncmdocnNreDdPc2QwTEQxTmdEZz09Cg==",
+      "url": "https://github.com/softwdev-vyqthor/xahnate-os-releases/releases/download/v1.1.7/Xahnate-OS_1.1.7_x64-setup.exe"
     }
   }
 }
