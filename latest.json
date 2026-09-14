@@ -1,11 +1,11 @@
 {
-  "version": "1.1.7",
-  "notes": "Si capturaron mal un costo, ya se puede corregir: en la pantalla del producto, en el historial de costos, hay un botón para corregir la cifra. Queda registrado lo que se capturó y lo que era correcto. También se puede fijar un costo a mano cuando ninguno del historial sirve. Y lo importante: cuando el costo cambia, el sistema les muestra los precios nuevos que saldrían y los aplican con un clic — ya no se queda el precio viejo colgado. La ventana del costo más alto ahora es de 12 meses.",
-  "pub_date": "2026-09-08T05:52:08Z",
+  "version": "1.1.9",
+  "notes": "Dos cambios en recepción. Al comparar, la pantalla ya no muestra el último costo de un lote sino el costo vigente del producto — el mismo número que ven en la pantalla del producto — y si no hay costo confiable lo dice en lugar de inventar uno. También avisa cuando el precio de la factura es una fracción del costo, que es el caso de las piezas que el proveedor factura a un centavo como cortesía. Y al dar de alta un producto nuevo desde la factura, ahora se piden la unidad, el preset y la familia. Es un paso más al recibir, pero el producto ya nace listo para ponerle precio en lugar de quedar pendiente. El IVA ya se toma de la factura.",
+  "pub_date": "2026-09-14T19:25:14Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbzV1VVEvZk9sY3hJTXRtNTM0aWJUZ2lodmRFWGtqSm1WUDBsQXI0a2NkSVZ3b09xN1dEVm1JYkhDL0s0YUtKbGZTME5PeHFrOWpBT2dxdjNkWnhzUUU2M0M4RDcxcUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODQ2NjYyCWZpbGU6WGFobsOkdGUtT1NfMS4xLjdfeDY0LXNldHVwLmV4ZQpUYncvQ0N1TkdVTHlhOWJSY3NvZVp0ekFCUFR2cXdWNko3dzdPeTVJNkR5MWsvaWFrR3I5dzB4WWVVeFJiS0Nxa3FncmdocnNreDdPc2QwTEQxTmdEZz09Cg==",
-      "url": "https://github.com/softwdev-vyqthor/xahnate-os-releases/releases/download/v1.1.7/Xahnate-OS_1.1.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbzV1VVEvZk9sYzNUR1E5YVh6V2hUdXVMVGljSSs2VThGNUVuOWw1VVJHNTdPSkh3VmVCSWxZTjFGWW5WU211WTNMdmZneEtsbXBHM2dabzFOY2tDQWN3akJPUDJCTVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDExNDczCWZpbGU6WGFobsOkdGUtT1NfMS4xLjlfeDY0LXNldHVwLmV4ZQpzS0NxQnViNllpWWsyOURoMmpQUW1qdlJRbWRDR29LSS9tc2UydUJGVG96bEcwRmxJMUx1bHZ0UUtoQVY5QkNlNXErZm9xSm8vRHlVeHJiQW94dExDdz09Cg==",
+      "url": "https://github.com/softwdev-vyqthor/xahnate-os-releases/releases/download/v1.1.9/Xahnate-OS_1.1.9_x64-setup.exe"
     }
   }
 }
