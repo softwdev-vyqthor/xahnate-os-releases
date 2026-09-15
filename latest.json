@@ -1,11 +1,11 @@
 {
-  "version": "1.1.9",
-  "notes": "Dos cambios en recepción. Al comparar, la pantalla ya no muestra el último costo de un lote sino el costo vigente del producto — el mismo número que ven en la pantalla del producto — y si no hay costo confiable lo dice en lugar de inventar uno. También avisa cuando el precio de la factura es una fracción del costo, que es el caso de las piezas que el proveedor factura a un centavo como cortesía. Y al dar de alta un producto nuevo desde la factura, ahora se piden la unidad, el preset y la familia. Es un paso más al recibir, pero el producto ya nace listo para ponerle precio en lugar de quedar pendiente. El IVA ya se toma de la factura.",
-  "pub_date": "2026-09-14T19:25:14Z",
+  "version": "1.1.10",
+  "notes": "Al recibir mercancía ahora se elige, línea por línea, qué costo va a mandar el precio: el de la factura, el de la factura con el descuento ya restado, el que el producto ya tenía, o uno que ustedes escriban. Las existencias siempre quedan registradas a lo que dice la factura — lo que cambia es de qué número salen los precios. Sirve para los casos que antes los obligaban a no cargar el XML: una pieza que el proveedor factura a un centavo como cortesía, o un descuento que no quieren que baje el precio de venta. Si eligen el costo anterior o uno propio, el sistema pide el motivo y lo guarda.",
+  "pub_date": "2026-09-15T01:55:13Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbzV1VVEvZk9sYzNUR1E5YVh6V2hUdXVMVGljSSs2VThGNUVuOWw1VVJHNTdPSkh3VmVCSWxZTjFGWW5WU211WTNMdmZneEtsbXBHM2dabzFOY2tDQWN3akJPUDJCTVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDExNDczCWZpbGU6WGFobsOkdGUtT1NfMS4xLjlfeDY0LXNldHVwLmV4ZQpzS0NxQnViNllpWWsyOURoMmpQUW1qdlJRbWRDR29LSS9tc2UydUJGVG96bEcwRmxJMUx1bHZ0UUtoQVY5QkNlNXErZm9xSm8vRHlVeHJiQW94dExDdz09Cg==",
-      "url": "https://github.com/softwdev-vyqthor/xahnate-os-releases/releases/download/v1.1.9/Xahnate-OS_1.1.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbzV1VVEvZk9sY3lzQjJWV2Y0N2VPMXdvMWZQYjA0OUlvRElYYnpkTUZKV0xxYWFoNDdQc1Z6ckJLV1ZKQlJZU3hObGdTY2pCQU1ocFltMTEyZExQTlNqakxDWlNDakFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDI1NjQ1CWZpbGU6WGFobsOkdGUtT1NfMS4xLjEwX3g2NC1zZXR1cC5leGUKU2pVQjVlRmIvK3IxQ1VNbE0veDBZb0xTY1RUekg2bHVkanhLckNrZnhjSU5mWFNuSlEzV2dyZVo0RW5SSVV6MEtIZ1dlbDI5K21VTEdVQ1dsOFE4RFE9PQo=",
+      "url": "https://github.com/softwdev-vyqthor/xahnate-os-releases/releases/download/v1.1.10/Xahnate-OS_1.1.10_x64-setup.exe"
     }
   }
 }
