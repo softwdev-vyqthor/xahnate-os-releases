@@ -1,10 +1,10 @@
 {
   "version": "1.1.12",
   "notes": "Al recibir mercancía, antes de confirmar ya se ven los cuatro precios que saldrían con el costo que eligieron en cada línea — el actual y el nuevo, lado a lado. Si cambian el costo o las piezas por caja, los precios se actualizan en pantalla. Confirmar la recepción no cambia ningún precio: la pantalla sólo muestra a dónde llegarían. Si un producto tiene costo fijo o no tiene preset, lo dice en lugar de mostrar un número que no va a pasar.",
-  "pub_date": "2026-09-16T18:29:18Z",
+  "pub_date": "2026-09-16T18:37:17Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbzV1VVEvZk9sYzlTc25oZHhwRm1PeU1lOTRGN2pSZ2VNS25iVEh1akQ0ZFB0UHZLRTl5a2xlQnZkVjNXUld4Nm9iK2VOWVJ0eThDT1E3YjAvWVVvQUpockZXa2Y0TVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTc1MjY2CWZpbGU6WGFobsOkdGUtT1NfMS4xLjEyX3g2NC1zZXR1cC5leGUKcHg0TmYrUjZtQUVURnhwb1EzazVNODVqVnk2bGpzVUNWdzM4NC9sU0trNExkVnFFbkxFamZyYlAvR1hKTG56ejBGUEoxVFM3NzBzTTBlNWRQcURIQmc9PQo=",
       "url": "https://github.com/softwdev-vyqthor/xahnate-os-releases/releases/download/v1.1.12/Xahnate-OS_1.1.12_x64-setup.exe"
     }
   }
