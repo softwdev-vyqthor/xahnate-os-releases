@@ -1,11 +1,11 @@
 {
-  "version": "1.1.11",
-  "notes": "Cuando una factura viene por caja, rollo o paquete, ahora se puede decir cuántas piezas sueltas trae y el sistema convierte solo: registra las piezas y el costo por pieza, no por contenedor. La próxima vez que ese mismo proveedor facture ese mismo código, el sistema ya recuerda cuántas piezas trae y lo rellena solo — solo hay que confirmarlo. Las existencias ya no se mueven a mano en esa pantalla: la cantidad que se recibe la calcula el sistema a partir de la factura.",
-  "pub_date": "2026-09-15T22:15:46Z",
+  "version": "1.1.12",
+  "notes": "Al recibir mercancía, antes de confirmar ya se ven los cuatro precios que saldrían con el costo que eligieron en cada línea — el actual y el nuevo, lado a lado. Si cambian el costo o las piezas por caja, los precios se actualizan en pantalla. Confirmar la recepción no cambia ningún precio: la pantalla sólo muestra a dónde llegarían. Si un producto tiene costo fijo o no tiene preset, lo dice en lugar de mostrar un número que no va a pasar.",
+  "pub_date": "2026-09-16T18:29:18Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbzV1VVEvZk9sYzBOMi8zWTg5MlZMSDhvZEtETm5vWVQyaFlDNTAwZExQTi9rdlZzTVo4NldQZkdYWlFJWHVyZ0RGRFQrRHJuN1l4SVNIT28zc1kxNjMwczdOMFpxZmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTA3MjQ3CWZpbGU6WGFobsOkdGUtT1NfMS4xLjExX3g2NC1zZXR1cC5leGUKU3JmbWVpRFp0UnpNRjQ3c2dkZ1ZTd245MUkxdVBrcklTUVJxbmNmTm1IWFlJSVNQMmhZTE9aTktpZFNreitac1JvMFgxVDdTbEwxYVEwaG9JR1lFQVE9PQo=",
-      "url": "https://github.com/softwdev-vyqthor/xahnate-os-releases/releases/download/v1.1.11/Xahnate-OS_1.1.11_x64-setup.exe"
+      "signature": "",
+      "url": "https://github.com/softwdev-vyqthor/xahnate-os-releases/releases/download/v1.1.12/Xahnate-OS_1.1.12_x64-setup.exe"
     }
   }
 }
