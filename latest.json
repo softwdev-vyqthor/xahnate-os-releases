@@ -1,11 +1,11 @@
 {
-  "version": "1.1.12",
-  "notes": "Al recibir mercancía, antes de confirmar ya se ven los cuatro precios que saldrían con el costo que eligieron en cada línea — el actual y el nuevo, lado a lado. Si cambian el costo o las piezas por caja, los precios se actualizan en pantalla. Confirmar la recepción no cambia ningún precio: la pantalla sólo muestra a dónde llegarían. Si un producto tiene costo fijo o no tiene preset, lo dice en lugar de mostrar un número que no va a pasar.",
-  "pub_date": "2026-09-16T18:37:17Z",
+  "version": "1.1.13",
+  "notes": "Confirmar la recepción ahora aplica los precios. Ya no hay que entrar producto por producto después: los precios que ven en la pantalla antes de confirmar son los que quedan. Si no quieren que una línea mueva su precio, la desmarcan y esa se queda como está. Y cuando el botón de confirmar no se deja, la pantalla ahora dice cuál línea y qué le falta, con un botón para ir directo ahí — antes sólo se ponía un recuadro rojo que había que buscar entre todas las líneas. También lee mejor las facturas donde el proveedor pone el paquete en el texto de la unidad, como P10, aunque el código diga pieza.",
+  "pub_date": "2026-09-19T04:27:52Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbzV1VVEvZk9sYzlTc25oZHhwRm1PeU1lOTRGN2pSZ2VNS25iVEh1akQ0ZFB0UHZLRTl5a2xlQnZkVjNXUld4Nm9iK2VOWVJ0eThDT1E3YjAvWVVvQUpockZXa2Y0TVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTc1MjY2CWZpbGU6WGFobsOkdGUtT1NfMS4xLjEyX3g2NC1zZXR1cC5leGUKcHg0TmYrUjZtQUVURnhwb1EzazVNODVqVnk2bGpzVUNWdzM4NC9sU0trNExkVnFFbkxFamZyYlAvR1hKTG56ejBGUEoxVFM3NzBzTTBlNWRQcURIQmc9PQo=",
-      "url": "https://github.com/softwdev-vyqthor/xahnate-os-releases/releases/download/v1.1.12/Xahnate-OS_1.1.12_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbzV1VVEvZk9sYzJ4aklyNmsvcmdnWDNWTS96SGl1c25OUTFoSUMxbFV4b1diNndFY1NvUGJNcVZGRXdIY0FQTWMzV0tzQ2p4NnhXM3NrTUxLSWxWQTI2TlJXc1BCRmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzkxOTc5CWZpbGU6WGFobsOkdGUtT1NfMS4xLjEzX3g2NC1zZXR1cC5leGUKTlk0Z0dPdFBwRTZ3U3FIYWlwWlQzOXp6ZVhCdzZ2OEEvVm9XbUZXQVFiUUZna2Zyc0pBQTMrUkxNb01OczhwcmZpQlhaeHc0djE2V0hqb04vanpaRFE9PQo=",
+      "url": "https://github.com/softwdev-vyqthor/xahnate-os-releases/releases/download/v1.1.13/Xahnate-OS_1.1.13_x64-setup.exe"
     }
   }
 }
